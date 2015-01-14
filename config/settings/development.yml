@@ -1,0 +1,4 @@
+config:
+  community: true
+  community_registry_url: 'http://localhost:3000/v1/community/register'
+  api_baseurl: 'http://localhost:3000'

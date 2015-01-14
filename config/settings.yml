@@ -1,0 +1,25 @@
+config:
+  community: true
+  community_registry_url: 'https://apipub.net/v1/community/register'
+  community_call_url: 'https://apipub.net/v1/community/call'
+  api_name: 'My API'
+  api_version: 'v1'
+  api_baseurl: 'http://localhost:3000'
+mongodb:
+  database: 'apipub'
+  host: 'localhost'
+  port: 27017
+cloud:
+  providers: ['aws', 'gce']
+  provider_aws_url: 'http://www.ec2instances.info/instances.json'
+  provider_gce_url: 'https://cloudpricingcalculator.appspot.com/static/data/pricelist.json'
+edf:
+  url_tempo: 'https://particuliers.edf.com/gestion-de-mon-contrat/options-tempo-et-ejp/option-tempo/la-couleur-du-jour-2585.html'
+  url_ejp: 'https://particuliers.edf.com/gestion-de-mon-contrat/options-tempo-et-ejp/option-ejp/l-observatoire-2584.html'
+  url_ejp_history: 'http://edf-ejp-tempo.sfr-sh.fr/index.php?m=eh'
+hosting:
+  url_firstheberg: 'http://api.firstheberg.net/api/order/stock/'
+  url_online_net: 'https://console.online.net/en/order/server'
+  url_ovh: 'https://ws.ovh.com/dedicated/r2/ws.dispatcher/getAvailability2'
+network:
+  url_akamai_tool: 'http://whatismyip.akamai.com'

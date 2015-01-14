@@ -1,0 +1,69 @@
+fr:
+  yahoo_weather:
+    wind:
+      n: N
+      nne: NNE
+      ne: NE
+      ene: ENE
+      e: E
+      ese: ESE
+      se: SE
+      sse: SSE
+      s: S
+      ssw: SSO
+      sw: SO
+      wsw: WSO
+      w: O
+      wnw: ONO
+      nw: NO
+      nnw: NNO
+    code:
+      '0': 'Tornade'
+      '1': 'Tempête tropicale'
+      '2': 'Ouragan'
+      '3': 'Orages violents'
+      '4': 'Orage'
+      '5': 'Pluie et neige'
+      '6': 'Pluie et grésil'
+      '7': 'Neige et grésil'
+      '8': 'Bruine verglaçante'
+      '9': 'Bruine'
+      '10': 'Pluie verglaçante'
+      '11': 'Douches'
+      '12': 'Douches'
+      '13': 'Averses de neige'
+      '14': 'Averses de neige'
+      '15': 'Poudrerie'
+      '16': 'Neige'
+      '17': 'Grêle'
+      '18': 'Neige fondue'
+      '19': 'Poussière'
+      '20': 'Brumeux'
+      '21': 'Brume'
+      '22': 'Enfumé'
+      '23': 'Tempête'
+      '24': 'Venteux'
+      '25': 'Froid'
+      '26': 'Nuageux'
+      '27': 'Majoritairement nuageux (nuit)'
+      '28': 'Majoritairement nuageux (jour)'
+      '29': 'Partiellement nuageux (nuit)'
+      '30': 'Partiellement nuageux (jour)'
+      '31': 'Clair (nuit)'
+      '32': 'Ensoleillé'
+      '33': 'Fair (nuit)'
+      '34': 'Fair (jour)'
+      '35': 'Pluie mêlée de grêle'
+      '36': 'Chaud'
+      '37': 'Orages isolés'
+      '38': 'Orages'
+      '39': 'Orages'
+      '40': 'Averses dispersées'
+      '41': 'Fortes chutes de neige'
+      '42': 'Averses de neige dispersées'
+      '43': 'Fortes chutes de neige'
+      '44': 'Partiellement nuageux'
+      '45': 'Averses orageuses'
+      '46': 'Averses de neige'
+      '47': 'Orages isolés'
+      '3200': 'Indisponible'

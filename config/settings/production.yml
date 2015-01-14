@@ -1,0 +1,3 @@
+config:
+  api_name: 'ApiPub'
+  api_baseurl: 'https://apipub.net'
